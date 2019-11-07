@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="car_price">Enter Car Price</string>
+    <string name="car_downpayment">Enter Car Down Payment</string>
+    <string name="loan_period">Enter Loan Period (Years)</string>
+    <string name="interest_rate">Enter Interest Rate (%)</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="button_reset">Reset</string>
+    <string name="car_loan">Car Loan:</string>
+    <string name="interest">Interest:</string>
+    <string name="monthly_repayment">Monthly Repayment:</string>
+    <string name="dev">Developed by Zahiriddin Rustamov</string>
+    <string name="toast_success">Calculation successful</string>
+    <string name="toast_fail">Calculation failed</string>
+    <string name="toast_clear">Cleared</string>
+</resources>
