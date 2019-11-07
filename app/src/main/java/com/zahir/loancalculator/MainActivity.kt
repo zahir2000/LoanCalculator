@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
         val interest:Double
         val monthlyRepayment:Double
 
+
         try {
             carLoan = editTextCarPrice.text.toString().toDouble() - editTextCarDownPayment.text.toString().toDouble()
             interest = carLoan * editTextInterestRate.text.toString().toDouble() * editTextLoanPeriod.text.toString().toInt()
